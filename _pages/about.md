@@ -6,7 +6,7 @@ subtitle: <a href='https://ctt.swjtu.edu.cn/yethan/WebIndexAction'>School of Tra
 
 profile:
   align: justify
-  image: prof_pic.jpg
+  image: xzd.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Phone: +86 15884578722</p>
